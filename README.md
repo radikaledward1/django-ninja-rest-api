@@ -4,6 +4,12 @@
 - Django 4.2+
 - Ninja 0.1.0+
 
+### Create a Django Project
+
+```bash
+django-admin startproject projectname .
+```
+
 ### Local Environment
 
 ```bash
