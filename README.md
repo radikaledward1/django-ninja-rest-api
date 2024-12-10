@@ -17,6 +17,12 @@ python -m venv .env
 source .env/bin/activate
 ```
 
+### Set the project requirements
+
+```bash
+pip freeze > requirements.txt
+```
+
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
